@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1234
 
+||||||| merged common ancestors
 Subscribe plz
+=======
 ABCD
+>>>>>>> Bugfix
